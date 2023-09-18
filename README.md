@@ -3,5 +3,7 @@ i am test nodejs-nginxreverseproxy in docker container
 # video testing 
 
 
-Uploading docker-compose.yml - ngnix_reverse - Visual Studio Code 2023-09-18 12-24-49_0_COMPRESSED.mp4…
+
+
+https://github.com/jamallasomasekhar/nodejs-nginxreverseproxy/assets/65691513/953829cf-599b-4640-a4e6-a3c3be831bc3
 
